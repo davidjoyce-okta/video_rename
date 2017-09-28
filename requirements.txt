@@ -1,0 +1,4 @@
+beautifulsoup4==4.6.0
+lxml==4.0.0
+python-slugify==1.2.4
+Unidecode==0.4.21
